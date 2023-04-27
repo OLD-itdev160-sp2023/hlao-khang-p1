@@ -1,0 +1,11 @@
+Project Description: A random 2000s website
+
+Ideas:
+- I want to create a website that looks like it could have come out of the 2000s
+- the early 2000s had a lot of wacky looking websites and I want to satirize it or something like that
+- just feel like that could be funny, but who knows
+
+Features:
+- i think the most important feature are the odd striking color choices
+- i don't know if it's because there were limited colors or not, but a lot of early 2000s websites had striking colors
+- they were not always pretty, but they were memorable with strong blues and whites
